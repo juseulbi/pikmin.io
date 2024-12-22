@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../picmin2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../2024002274_주슬비"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "picmin"
+	}
+}
